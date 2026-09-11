@@ -1,0 +1,49 @@
+Project Title:
+Student Management System
+
+Project Objective:
+The objective of this project is to create a simple and
+responsive web application for managing student records.
+
+Project Overview:
+The Student Management System allows users to add, edit,
+delete, search and filter student information. The project
+has a simple and user-friendly interface and works on
+desktop, tablet and mobile devices.
+
+Technologies Used:
+HTML
+CSS
+JavaScript
+Git
+GitHub
+GitHub Pages
+
+Main Features:
+1. Add Student
+2. Edit Student
+3. Delete Student
+4. Search Student
+5. Filter Student
+6. Student Counter
+7. Form Validation
+8. Responsive Design
+
+Challenges Faced:
+I faced difficulties while implementing dynamic student
+records, editing data and making the website responsive.
+
+Solutions Implemented:
+I used JavaScript arrays, objects, functions and DOM
+manipulation to manage student records. CSS media queries
+were used to make the website responsive.
+
+Key Learnings:
+I learned how to create a complete responsive website
+using HTML, CSS and JavaScript. I also learned about
+JavaScript functions, arrays, objects, DOM manipulation,
+events, Git and GitHub.
+
+Future Improvements:
+In the future, I can add a database, login system,
+student attendance, marks and result management.
